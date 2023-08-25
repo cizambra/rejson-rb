@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-Make sure you have loaded rejson module in `redis.conf`
+Make sure you have [installed and loaded](https://gist.github.com/lmj0011/820eea392f6f43c755fadc2ba56b69e9) rejson module in `redis.conf`
 ```ruby
 require 'rejson'
 
